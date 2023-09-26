@@ -11,7 +11,8 @@ Monitoring active NFL games.
 Calculating and analyzing win probabilities during games.
 Posting updates and win probability graphs on Twitter.
 Handling different game events, including touchdowns, field goals, turnovers, and more.
-Prerequisites
+
+## Prerequisites
 
 Before running the program, make sure you have the following prerequisites installed:
 
@@ -37,7 +38,8 @@ Set game monitoring:
 Specify the games you want to monitor by updating the update_current_week_games function to filter games based on your preferences (e.g., teams, start times).
 Run the program:
 Execute the program by running the main function.
-Usage
+
+## Usage
 
 Here's how the program works:
 
@@ -48,13 +50,14 @@ Additional Notes
 
 The program is designed for live game monitoring during NFL seasons. Ensure it's running during game times to capture live data.
 Be mindful of Twitter's rate limits when posting tweets. Adjust the frequency of tweets accordingly.
-Contributors
 
+
+## Contributors
 [Lucas Cooper]
-License
 
 
-Acknowledgments
+
+## Acknowledgments
 
 Thank you to ESPN for providing game data.
 Inspired by the Surrender Index twitter bot
